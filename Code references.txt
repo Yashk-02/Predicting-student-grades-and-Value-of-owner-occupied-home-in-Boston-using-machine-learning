@@ -1,0 +1,37 @@
+
+######## Code referencing for MLP model
+
+
+
+https://www.listendata.com/2015/02/splitting-data-into-training-and-test.html  To split data into train and test.
+
+https://cran.r-project.org/web/packages/ANN2/ANN2.pdf---ANN package used for training model.
+
+https://stackoverflow.com/questions/17200114/how-to-split-data-into-training-testing-sets-using-sample-function-----train and test data splitting using sample function.
+
+https://www.pluralsight.com/guides/splitting-combining-data-r
+
+https://www.datacamp.com/community/tutorials/neural-network-models-r-- To plot Neural network
+
+https://missinglink.ai/guides/neural-network-concepts/perceptrons-and-multi-layer-perceptrons-the-artificial-neuron-at-the-core-of-deep-learning/----MLP architecture
+
+https://rdrr.io/cran/ANN2/man/neuralnetwork.html#heading-1---neuralnetwork function
+
+https://stackoverflow.com/questions/48649443/how-to-one-hot-encode-several-categorical-variables-in-r----creating dummy variable to perform one hot encoding
+
+https://stackoverflow.com/questions/25889637/how-to-use-k-fold-cross-validation-in-a-neural-network/25897087---To perform cross validation manually
+
+https://brightspace.ucd.ie/d2l/le/content/82684/Home/(Datamining lecture, Extra R code provided by Aoife d'arcy) ---- To perform cross validation manually
+
+https://github.com/topepo/caret/issues/675---Cross validation using caret function
+
+
+https://www.youtube.com/watch?v=AFg2MvhFeho---using spply function for k times iteration
+
+
+https://www.youtube.com/watch?v=S-zKhFr91Tg---To understand and perform multi regression in r
+
+https://www.youtube.com/watch?v=VEBax2WMbEA---For feature selection
+
+https://www.youtube.com/watch?v=UiBK9ehpF7o---to plot Overfitting of data
+
