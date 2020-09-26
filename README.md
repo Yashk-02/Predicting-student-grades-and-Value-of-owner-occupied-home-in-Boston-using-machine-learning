@@ -9,7 +9,7 @@ lasso (l1)
 Elastic net (l1 and l2)
 
 Now each of the above regularisation approach along with predicting the response variable is done using Support Vector Machine
-and Multi layer perceptron to further investigate which algorithm acts superior based on the quality of dataset.
+and Multi layer perceptron(a type of supervised neural network) to further investigate which algorithm acts superior based on the quality of dataset.
 
 The three algorithms along with regularisation approach is studies om
 1. Boston dataset built in dataset n R package(MASS)
