@@ -6,9 +6,9 @@ The main purpose of this code is to Fit a multiple regression model to predict t
 using all of the predictors and further applying different regularisation methods such as 
 Ridge Regression(l2)
 lasso (l1)
-Elastic net (l1 and l2)
+and Elastic net (l1 and l2)
 
-Now each of the above regularisation approach along with predicting the response variable is done using Support Vector Machine
+Now each of the above regularisation approach along with predicting the response variable is performed using Support Vector Machine
 and Multi layer perceptron(a type of supervised neural network) to further investigate which algorithm acts superior based on the quality of dataset.
 
 The three algorithms along with regularisation approach is studied on
